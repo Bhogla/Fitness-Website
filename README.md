@@ -51,10 +51,12 @@ Key features and functionalities include:
 5. Promote healthy lifestyles and wellness
 
 main page:
- 
+![Screenshot 2024-11-08 at 12 48 47 PM](https://github.com/user-attachments/assets/75d165ac-7440-4f9d-8731-e9f6b2bfdc6f)
 
-Destination Page:
 
+
+Description Page:
+![Screenshot 2024-11-08 at 12 48 37 PM](https://github.com/user-attachments/assets/68c7fcb3-e558-4ba8-ae37-9ac0bf542f59)
 
  
 
